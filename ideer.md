@@ -1,9 +1,9 @@
-#Idéer
+# Idéer
 
-##Kärnkraft i Sverige
+## Kärnkraft i Sverige
 
-###bakgrund
+### bakgrund
 
-*Bakgrund
-..*Bakgrund atomklyvning
---*
+* Bakgrund
+  * Bakgrund atomklyvning/kärnkraft
+  * 
