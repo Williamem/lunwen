@@ -27,4 +27,4 @@
 * Fler aktörer
   * Kina, Space X, Indien, Amazon
 * Rymdturism
-* Nya planer på mån och marskolonier
+* N+ya planer på mån och marskolonier
