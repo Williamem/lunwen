@@ -14,6 +14,7 @@
 
 ### Opinion/TMI/Tjerobyl/miljörörelsen
 * Svensk och global opinion om kärnkraft
+* The china syndrome
 * TMI och Tjernobyl
 * Miljörörelsen
 * Sveriges kärnkraftsomröstning
