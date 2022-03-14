@@ -8,5 +8,12 @@
 ## värt att leta efter
 * Tekniska Museet har gett ut en bok som heter Kärnkraft som kulturarv.[6]
 
+### tidningar
+* bak till 80-talet
+  * https://www.retrievergroup.com/sv/product-mediearkivet
+* Kungliga biblioteket
+  * https://tidningar.kb.se/
+  * kan söka men inte läsa hela online, måste läsas på bibliotek i Sverige
+
 
 
