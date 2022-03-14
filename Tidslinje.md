@@ -16,10 +16,7 @@
 * Fusionsreaktor
 * RTG (inte reaktor)
 
-## Företag
-* Vattenfall
-* Asea Atom
-* Westingouse
+
 
 ## Sverige
 * 1954 Juli R1 Reaktor 1, forskningsreaktor, KTH Sthlm

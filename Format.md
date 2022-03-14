@@ -6,16 +6,22 @@
 * manhattanprojektet
 * Reaktortyper
 
+## Företag
+* Asea Atom
+* Westingouse
+* Asea Atom
+  * företagsinformation samt lite om teknologi
+* Vattenfall
+* Fortum
+
 ### Experimentreaktorer i Sverige
 * Reaktor 1 - 1954 - KTH STHLM
 * Reaktor 0 - 1959
 * Reaktor 2 - 1960 - Studsvik
 * 3 Ågesta
 * 4 Marviken
-### Asea Atom
-* företagsinformation samt lite om teknologi
-### Svenska energiproducerande kärnreaktorer
-#### Kärnkraftsverk
+
+### Svenska energiproducerande Kärnkraftsverk
 * Ågestaverket - 1964
 * Marvikenverket - -
 * Oskarshamn - 1972
