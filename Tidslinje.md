@@ -29,7 +29,7 @@
   * Lönsam 1973 (oljekrisen) 
   * 1974 - stängning pga höjda säkerhetskrav (vilka? hitta mer)
   * 2020-2024 demontering
-* 1973 - Närförläggningsutredningen - samtida produktion av fjärrvärme och el-
+* 1973 - Närförläggningsutredningen - samtida produktion av fjärrvärme och el
   * använder varmvattnet istället för att dumpa
   * dålig lönsamhet för Barsebäck och forsmark, blir inte av
 * 1960-talet - Marvikenverket, elproduktion och produktion av plutonium till bomb

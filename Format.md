@@ -2,7 +2,11 @@
 ## Delar
 
 ### Bakgrund
-### Experimentreaktorer
+* Bequerel - Einstein - Hahn och Meitner - Fermi
+* manhattanprojektet
+* Reaktortyper
+
+### Experimentreaktorer i Sverige
 * Reaktor 1 - 1954 - KTH STHLM
 * Reaktor 0 - 1959
 * Reaktor 2 - 1960 - Studsvik
@@ -36,5 +40,5 @@
 
 ### Idag
 * Opinion
-* Fricks elbolag
-* 2022 Kärnfull Energi
+* 2022 Kärnfull Energi, Kärnfull Next
+* Lagstiftning
