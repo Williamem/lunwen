@@ -1,0 +1,12 @@
+In 1895, while German Wilhelm Röntgen was doing experiments with a cathode ray tube he discovered a new kind of ray that could pass through matter. He called this new kind of ray x-rays. Röntgen produced his x-rays by accelerating cathode rays with 30 000 volts across the electrodes, something that also made the glass behind the anode flouresce. He published his results in the paper "on a new kind of rays"öö on January 5 1896. When Antoine Henri Becquerel, chief engineer of Bridges and Highways in Paris heard about x-rays he theorized that it wasn't the electrical discharge that was causing the x-rays, it was the fluorescence.
+To test his theory he devised an experiment. The best way known at the time to induce flourescence was exposing fluorescent material to UV-rays from the sun. The experimet was simple: cover a photgraphic plate in a material that light won't pass through, sprinkle some fluoresceant material on top and leave it outside for a while. If x-rays are produced these will show on the photographic plate when developed. Becquerel tried several different fluorescent substances without luck until he got to uranyl potassium sulfate which gave him the result he was looking for. Before writing up his results he decided to repeat the experiment, he prepared his materials but since the day was cloudy they were left in a desk drawer. Days later he came back to the materials and despite not having done the experiment he decided to still develop the negative, at least it could be used as a control. The results were surprising. the effect was much stronger than what could be seen on his actual experiment. Henri Becquerel had discovered his own kind of rays and they were a property of uranium, he namned them Becquerel rays, later renamned by his student Marie Curie to radioactivity.
+
+Marie Curie would go on to study radioactivity and discover several more radiactive elements winning two Nobel prices for her work.
+
+
+Interest in studying radioactivity was high and the next major discovery on the path to nuclear power would be made by Ernest Rutherford who started the field of nuclear physics.
+Studying the rays given off by uranium ant horium he discovered that there were two different kinds of ray, he namened them alfa and beta radiation (gamma bla, bla bla). He also discovered that some sort of gas seemed to be leaking out of the thorium
+
+----------
+
+Smythrapporten
