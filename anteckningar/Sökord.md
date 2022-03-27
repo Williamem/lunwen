@@ -1,2 +1,4 @@
 * ranstadsverken
 * fartyg kärnkraaftsavfall
+* försäkra
+* 

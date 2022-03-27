@@ -14,3 +14,5 @@ FOA
 
 AKK
 
+Kärnfull Energi, Kärnfull Next
+
