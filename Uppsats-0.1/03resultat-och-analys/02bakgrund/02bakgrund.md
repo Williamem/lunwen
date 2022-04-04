@@ -12,7 +12,15 @@ Rutherfords colleague, chemist Frederick Soddy, set out to help him identify the
 It was also Rutherford and Soddy that first experimentally measured the energy produced by atomic decay of atoms. Their measurments showed that atomic decay of one gram of radium produces somewhere between 100,000,000 and 10,000,000,000, ("Radioactive Change" 1903). The chemical reaction that produces the most amount of energy is liquid hydrogen burning in liquid oxygen producing 4000 calories per gram. This proved that there was plenty of energy to harvest from atmic decay if it could be induced.
 * (1908, Rutherford, Alpha rays are helium atoms without electrons, alpha rays renamed alpha particles)
 * Einstein
-The next major step towards atomic power production was Albert Einsteins theory of relativity. While it had been previously established that atomic decay produced energy, Einstein formulated a theory about how and how much, E=MC2, Energy equals mass times the speed of light squared, mass is energy and energy is mass.
+The next major step towards atomic power production was Albert Einsteins equation E=mc2 published in 1905 ("does the inertia of a body depend on it´s energy content" 1905), a short addendum to his paper "on the electro-dynamics of moving bodies" establishing his theory of special relativity published earlier the same year.
+
+
+
+While it had been previously established that atomic decay produced energy, Einstein formulated a theory about how and how much, E=MC2, Energy equals mass times the speed of light squared, mass is energy and energy is mass. born out of Einsteins theory of relativity was quantum mechanics (which would eventually explain how when an atom dacays into other elements a small amount of the atmic mass is converted to energy.)
+* (quantum mechanics?)
+
+* bomb
+
 
 ----------
 
