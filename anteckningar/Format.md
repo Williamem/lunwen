@@ -56,7 +56,7 @@
 
 ### Kärnkraftsomröstningen - 1980
 * opinion
-  *LAndanvändning
+  * LAndanvändning
 * alternativen att rösta om
 * branchpåverkan
 * oljekrisen
@@ -72,7 +72,7 @@
 * Lagstiftning
 
 ### Framtid
-* mosulära reaktorer
+* modulära reaktorer
 * breeders
 * thorium
 * fusion
