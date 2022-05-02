@@ -2,6 +2,9 @@ During the 1950s the Simpevarp peninsula in Oskarsman municipallity was prospect
 
 in 1965 Oskarshamns Kraftgrupp (now OKG AB) is founded and they place an order with ASEA Atom for a 400 MW BWR. This would become O1 (Oskarshamn reactor 1) and construction began 1 June 1966
 
+------------------------------------
+
+uyj7
 
 ## O1
 * purpose: Commercial power plant

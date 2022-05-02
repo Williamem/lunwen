@@ -2,7 +2,20 @@
 
 ~~Ågestaverket or R3/Adam was the first power producing Swedish nuclear reactor. It was a joint project between Vattanfall and AB Atomenergi and construction began in 1957. The plant was fully constructed in 1962 with a final construction cost of 230 million SEK, far more than the projected 50 million SEK. The reactor achived first criticallity 17 july 1963. Commercial power production began in 1964~~
 
-Ågestaverket was the first commercial Swedish nuclear power plant. It had one reactor named R3/Adam. Apart from delivering electrical power and district heating it was also meant to test technology and fuel. R3/Adam was a PWR (Pressurized Water Ractor) initially delivering a thermal effect of 65MW, later 80MW. The electrical power produced was modest at 15%, 12MW but this was by design since the main delivery of energy was in the form of district heating at 68MW.
+~~Ågestaverket was the first commercial Swedish nuclear power plant. It had one reactor named R3/Adam. Apart from delivering electrical power and district heating it was also meant to test technology and fuel. R3/Adam was a PWR (Pressurized Water Ractor) initially delivering a thermal effect of 65MW, later 80MW. The electrical power produced was modest at 15%, 12MW but this was by design since the main delivery of energy was in the form of district heating at 68MW.~~
+
+Ågestaverket, in Ågesta, Huddinge, was to be the first Swedish nuclear power plant, delivering electricity and district heating. It was a joint venture combining project Adam from ASEA-Vattenfall and project R3 from AB Atomenergi. Planning began in 1957 and construction started in 1961. For safety reasons the reactor was placed underground in a bedrock cavity. The plant was designed by Vattenfall AB with the reactor designed by AB Atomenergi and buit by ASEA. The initial planned construction cost of 50 000 000SEK was badly overrun ending up at 530 000 000SEK by the time construction was complete. The reasons for the higher than expected cost was mainly that construction began before design was complete combined with a high demand on the materials used. The single reactor was a PWR model fuelled with natural uranium moderated by heavy water. By the time Ågestaverket was planned and constructed the Americans had started to release more iformation about their technology and the construction solutions of Ågetsaverket were in applicable parts heavily inspired by the Shippingport power plant.
+
+The reactor first went critical in july 1963 and achived full power in 1964 delivering 12MW of electricity and 68 MW of district heating. The modest 15% efficency in converting heat energy to electrical was a feature, not a bug since spare thermal energy was used for district heating.
+
+The Ågesta plant served as a demonstration plant proving the viabillity of the swedish line, running a nuclear power plant on nationally sourced natural uranium moderated with heavy water. A major uncertainity before was wheather the loss of heavy water would be to large to make it economically feasible but after the first year of operation this proved not to be the case. The plant stayed online for ten years from 1964 to 1974 and during that time delivered a total of 800 000MWh heat and 415 000 MWh electrical power.
+
+The desicion to shut the plant down was taken out of economic considerations. New safety demands would require substansial investment and the plant was already operating at a loss. Due to the oil crisis the plant was making a profit during it's last year of operation but the decision to end operations had already been taken and the plant was finally shut down on June 2, 1974.
+
+
+
+~~ska vara med=~~
+
 
 Data:
 purpose: demonstration plant, electrical power production, district heating

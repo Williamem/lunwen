@@ -35,13 +35,49 @@ R2 was a research reactor in studsvik of the same design as ORR in America deliv
 ### Atoms for peace
 During the first years after the second world war America banned the sharing of nuclear technology, even with their allies. This began to change after a 1953 speech to the Un general assembly by President Dwight D. Eisenhower about the hopes and dangers of a nuclear future. After this America became more generous in sharing information and equipment. In 1957 a UN conferens was helt concerning nuclear technology in which lots of previously secret information was released to the world. The nuclear states also agreed to the trade of both natural and enriched uranium. This eventually lead to the founding of IAEA in 1957 which were to regulate and control the trade. This sped up the development in Sweden leading to AB Atomenergi suggesting two new reactors, R3 and R4 as well as the founding of privately owned AKK (later OKG) who eventually became the first in sweden to consider construction of a light water reactor.
 
-## future plans for power production
+## SOU 1956:11 (atomenergiutredningen?)
 
-## Nuclear power plants
+## 1956 Atomenergilagen
+Delegationen för atomenergifrågor
+
+## Heavy water nuclear power plants
+
+### Early plans
+Based on discussions within Atomenergiutredningen Vattenfall made plans for two power producing Nuclear reactors, Adam and Eva. Atomenergi similarly had plans for two powerplants, R3 and R4. These project were later combined with R3/Adam becoming Ågestaverket and R4/Eva becoming Marvikenverket.
+
+### Ågestaverket
+Ågestaverket, in Ågesta, Huddinge, was to be the first Swedish nuclear power plant, delivering electricity and district heating. It was a joint venture combining project Adam from ASEA-Vattenfall and project R3 from AB Atomenergi. Planning began in 1957 and construction started in 1961. For safety reasons the reactor was placed underground in a bedrock cavity. The plant was designed by Vattenfall AB with the reactor designed by AB Atomenergi and buit by ASEA. The initial planned construction cost of 50 000 000SEK was badly overrun ending up at 530 000 000SEK by the time construction was complete. The reasons for the higher than expected cost was mainly that construction began before design was complete combined with a high demand on the materials used. The single reactor was a PWR model fuelled with natural uranium moderated by heavy water. By the time Ågestaverket was planned and constructed the Americans had started to release more iformation about their technology and the construction solutions of Ågetsaverket were in applicable parts heavily inspired by the Shippingport power plant.
+
+The reactor first went critical in july 1963 and achived full power in 1964 delivering 12MW of electricity and 68 MW of district heating. The modest 15% efficency in converting heat energy to electrical was a feature, not a bug since spare thermal energy was used for district heating.
+
+The Ågesta plant served as a demonstration plant proving the viabillity of the swedish line, running a nuclear power plant on nationally sourced natural uranium moderated with heavy water. A major uncertainity before was wheather the loss of heavy water would be to large to make it economically feasible but after the first year of operation this proved not to be the case. The plant stayed online for ten years from 1964 to 1974 and during that time delivered a total of 800 000MWh heat and 415 000 MWh electrical power.
+
+The desicion to shut the plant down was taken out of economic considerations. New safety demands would require substansial investment and the plant was already operating at a loss. Due to the oil crisis the plant was making a profit during it's last year of operation but the decision to end operations had already been taken and the plant was finally shut down on June 2, 1974.
+
+### Marvikenverket
+Initial plans for Marvikenverket called for a heavy water moderated PWR fuelled with natural uranium having a thermal effect of 400MW and an electrical output of 100MW but due to fast development in the international nuclear industry plans kept changing. The most advanced for proposed was a heavy water BWR fuelled with enriched uranium producing 200MW of electrical power. The final plant had a heavy water BWR with a thermal effect of 474MW and electrical output of 132MW. Construction began in 1965 and the plant was ready for non-nuclear pilot operation in 1968.
+
+By this time AEC had set out basic criteria for evaluating the safety of nuclear power plants. Marvikenverket failed to meet some of the safety criteria while attempting to remediate these problems during the autumn of 1969 new problems were discovered. Instead of further investment Atomenergi in 1970 suggested shutting the project down. Vattenfall agreed and final decision to close the project was granted by the goverment May 27, 1970. Final cost of construction and liquidation came to 640 000 000SEK.
+
+While the plant never opened for operation it is generally agreed that the knowledge gained was instrumental for the Swedish nuclear industry. Without this project it is doubtful whether Sweden would have had the know how to independently develop light water reactor technology.
+
+### salutet för den svenska linjen 1968
+
+## Light water nuclear Power plants
+
+### Private industry takes over the market
+While state owned companies were planning and buiding power plants conforming with the needs of the Swedish line, private companies started looking in another direction. They saw the success of light water reactors using enriched uranium as fuel, something availlible on the market since the Americans had decided to start sharing some of their technology. 
+
+### kort om amerikanska kärnkraftverk
 ~~~lite om rickover?~~
 The worlds first civilian nuclear power plant, The Shippingport Atomic power station, unique in that it had no military purpose, first went critical December 12, 1957 and started putting power on the grid five months later on May 26, 1958. ~~kafa, flytta eller skriva om~~
 
-### Ågestaverket
+
+## the end of AB Atomenergi (now studsvik AB)
+
+## SKI 1974
+
+## Kärntekniklagen 1984
 
 
 
