@@ -61,7 +61,7 @@ By this time AEC had set out basic criteria for evaluating the safety of nuclear
 
 While the plant never opened for operation it is generally agreed that the knowledge gained was instrumental for the Swedish nuclear industry. Without this project it is doubtful whether Sweden would have had the know how to independently develop light water reactor technology.
 
-### salutet för den svenska linjen 1968
+### slutet för den svenska linjen 1968
 
 ## Light water nuclear Power plants
 
@@ -71,6 +71,43 @@ While state owned companies were planning and buiding power plants conforming wi
 ### kort om amerikanska kärnkraftverk
 ~~~lite om rickover?~~
 The worlds first civilian nuclear power plant, The Shippingport Atomic power station, unique in that it had no military purpose, first went critical December 12, 1957 and started putting power on the grid five months later on May 26, 1958. ~~kafa, flytta eller skriva om~~
+
+## Oskarshamn
+During the 1950s the Simpevarp peninsula in Oskarsman municipallity was prospected as a location of interest for future construction of a nuclear power plantby AKK and in 1959 they hand in the application for construction. The peninsula was bought by AKK in 1962 and they start moving out the previous inhabitants and prepare the site for construction. In total Oskarshamn would house 3 nuclear reactors.
+
+#### Oskarshamn 1
+in 1965 Oskarshamns Kraftgrupp (now OKG AB) is founded by AKK and they place an order with ASEA for a 400 MW power output light water BWR. This would become O1 (Oskarshamn reactor 1) and construction began 1 June, 1966. In 1971 it started producing power for the grid as the first commercial nuclear reactor in Sweden. Through modernizations the energy output was improved and it's maximum energy output was 473MW with a thermal effect of 1375MW. O1 was closed 17 June 2017.
+
+#### Oskarshamn 2
+Plans for a second reactor on the Simpevarp Peninsula began in 1967 and an order for a light water BWR producing 580MW of electricity was placed with ASEA. The same construction used for O2 would later be used for both the reactors in Barsebäck. In 1982 the effect output of O2 was increased to 638MW with a thermal effect of 1800MW. O2 was closed ~~datum?????~~
+
+#### Oskarshamn 3
+Plans for a third reactor was formulated in 1973 and an application for construction of a 1000MW electricity outut light water BWR reactor was made. An order was initially placed with ASEA/Stal-Laval in 1976 but due to a planned plebicite concerning the future of nuclear power production in sweden the order was put on hold until 1980. In 1985 O3 entered the grid with an electrical power output of 1050MW. It was modernized in 1989 increasing its effect to 1200MW and again in 2012 inccreasing the power output to 1450MW briefly making it the worlds most powerful BWR. The thermal effect of O3 is 3900MW.
+
+#### shutdown
+In an extra shareholders meeting 14 October, 2015 OKG's huvudägare E.ON decided to shut down O1 and O2. Low prices on electricity, partially driven by competition from wind power meant that the reactors were no longer profitable.
+
+O1 was shut down 17 June 2017 having delivered a total of 109TWh of electricity. O2 was already closed for renovations when the decision to shut it down was made and it was never taken back online. O2 produced a total of 154TWh during its lifetime
+
+~~kort om politiska motivationer~~
+
+
+## Ringhals
+in 1965 Vattenfall started buying land on Väröhalvön in värö land municipality, now part of Varberg municipality. 1966-1967 they were planning bids for their first two reactors and approval to build the plant was granted in 1968. Orders for a BWR from Asea, R1 (Ringhals 1) and a PWR, R2 (Ringhals 2) from American Westinghouse were placed the same year and construction began in 1961. Orders for two more PWR's, R3 and R4, were placed with Westinghouse in 1970. ~~The three Westinghouse reactors in Ringhals are the only power plant reactors in Sweden not developed domestically and the only PWR's.~~
+
+#### Ringhals 1
+R1 is a BWR, the only one in ringals. The order for the reactor was placed with ASEA in 1969 and construction began in the beginning of the same year. Problems with sub-contractors caused delays but the reactor tank was delivered in 1970. First criticallity was in 1973 and power delivery began the next year with full commercial operations in 1976. Initially the net power output was 730MW but through modernizations it has now been raised to 855MW with a thermal effect of 2540MW. R1 was closed 31 December, 2020
+
+#### Ringhals 2
+R2 is a PWR delivered by westinghouse, the order was placed in 1969 and construction began in 1970. Due to delivery problems of components for R1, R2 was the first reactor to go live in the Ringhals plant when it entered the net in 1974 with full commercial operation in 1975. R2 delivered a net power output of 866MW with a thermal effect of 2652MW
+
+#### Ringhals 3
+R3 is a PWR delivered by Wesinghouse. It was ready to begin operations in 1977 but could not be loaded with fuel due to a new law (villkorslagen) dictating that new reactors could not begin operations without a plan for safe disposal of spent fuel. After making such plans approval to fuel and start the reactor was given 27 March, 1979, tha day before the Three Mile Island accident. After the TMI accident it was decided to hold a plebicite about the future of nuclear power production in Sweden and no new reactors were allowed to begin operations until the results were in. This led to further delays but power production could finally begin in 1980 with full commercial operation commencing in 1981. Power output is 1045MW with a thermal effect of 3135MW.
+
+#### Ringhals 4
+R4 Is a PWR delivered by Westinghous of the same construction as R3. Start of the reactor was planned for 1981 but problems discovered with R3 delayed operatiosn until these had been remediated. It started power production in 1982 with full cemmercial operation commencing in 1983. It delivers 935Mw of power with a thermal effect of 2775MW.
+
+------------------------------------
 
 
 ## the end of AB Atomenergi (now studsvik AB)

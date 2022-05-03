@@ -13,6 +13,9 @@
 * IAEA
 * OKG
 * AEC - Atomic Energy Commision
+* Stal-Laval
+* Studsvik AB
+
 ## AB Atomenergi
 semi-state company formed in 1947 to develop nulear technology.
 Develop methods for uranium extraction and building test reactors
