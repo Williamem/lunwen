@@ -1,0 +1,9 @@
+## Barsebäck
+
+Barsebäck was a nuclear power plant in Barsebäck, Kävlinge municiaplity. Land for the plant was bought by Sydkraft in 1965 and initially considerations were made to in accordence with närförläggningsutredningen use it for both electrical power production and district heating. The location meant that district heating could be delivered to bot Malmö and Lund as well as Danish Copenhagen. These plans were however abandoned since it would negatively effect the electrical power production which was deemed more important. The fact that plant was close to Denmark has  made it controversial since early on with both Swedish and Danish enviromentalist movements protesting the plant. The two reactors were taken offline in 1999 and 2005 as part of an energy deal between the political parties Socialdemokraterna, Vänsterpartiet and Centerpartiet in 1997. throughout their lifetime the two reactors produced a total of 201 860 GWeh.
+
+### Barsebäck 1
+B1 was a BWR delivered by Asea. The order was placed in 1969 and construction began 1971. It had a net effect of 600MWe and a thermal effect of 1800MWth. It started delivering power in 1975 and was closed down in 1999 having delivered a total of 93.82MWeh.
+
+### Barsebäck 2
+B2 was also a BWR delivered by Asea. The order was placed in 1970 and construction began in 1973. After the 1976 election the Swedish goverment were led by anti nuclear Thorbjörn Fälldin who had promised during his campaign that no new reactors would enter operations. Fällding was however forced to a compromise in the autumn of 1976 allowing the fuelling of B2 to begin. Full commercial operations began in 1977 and when the reactor was shut down in 2005 it had delivered a total of 108-45TWeh.

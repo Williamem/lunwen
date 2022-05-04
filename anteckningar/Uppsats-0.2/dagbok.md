@@ -18,6 +18,12 @@
 ## 3/5
 * oskarshamn nästan färdigt, behöver stycke om politiska motivationer och anklagelser för nedstängning
 * samma för ringhals (men saknar källor på annat än effekten)
+
+## 4/5
+* ringhals, utkast färdigt
+* forsmark, inte färdig
+* börjar på mall för tabeller
+* Börjar på "03rules and regulations" (i separat dokument, allt annat ligger i 02)
 * 
 
 
@@ -30,6 +36,9 @@
 * olyckor: TMI, Tjernobyl, Fukoshima
 * Slutförvarsfrågan
 * förkortningar/företag/termer
+* REleveant laws, regulations and political considerations
+* närförläggningsutredningen
+* tankeförbudet
 
 ### Skriva om
 * kapitlen om kärnkrafverk och deras reaktorer behöver skrivas om för att bli enhetliga
